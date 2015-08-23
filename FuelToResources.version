@@ -1,0 +1,14 @@
+{
+    "NAME": "FuelToResources",
+    "URL" : "https://github.com/MINERGUY67880/KSP-Fuel-to-Resources",
+    "VERSION" : {
+        "MAJOR": 1,
+        "MINOR": 0,
+        "PATCH": 0
+    },
+    "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 4
+    }
+}
